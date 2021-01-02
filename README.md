@@ -13,6 +13,7 @@ Back End : Used Firebase for User Athentication, Database to store user's info a
 1. Login & Logout
 2. Writting a post
 3. Add a comment to a specific post
+4. Posts are permanently stored and managed in a database.
 
 ### Demo page
 
