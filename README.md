@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## What kind of Framework or language applied
 
 Front End : react.js (html, css, javascript and Numerous packages(Material ui etc...)
+
 Back End : Used Firebase for User Athentication, Database to store user's info and post data, Hosting for deploying this app.
 
 ## Feature of this app
